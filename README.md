@@ -12,7 +12,7 @@
   <br>
   <h3>Hi, I'm Sissel</h3>
   <p>
-    I'm a passionate self-taught developer fast learner in everything related to Computer Science and I'm always ready to practice new subjects.<br>
+    I'm a passionate computer engineer fast learner in everything related to Computer Science and I'm always ready to practice new subjects.<br>
     I'm curious about Cybersecurity (Reverse Engineering), Urban Exploration, 
     10th Art (Digital Art), Blockchains, Spirituality (Humor) et cetera.
   </p>
