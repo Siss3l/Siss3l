@@ -10,10 +10,10 @@
     </a>
   </div>
   <br>
-  <h3>Hi, I'm Sissel</h3>
+  <h3>Oh Hi Mark</h3>
   <p>
-    I'm a Computer Engineer (fast learner) passionate in everything related to Computer Science and I'm always ready to practice new subjects.<br>
-    I'm curious about Cybersecurity (Reverse Engineering), Urban Exploration, 
+    I am a Computer Engineer (fast learner) passionate in everything related to Computer Science and I'm always ready to practice new subjects.<br>
+    I am curious about Cybersecurity (Reverse Engineering), Urban Exploration, 
     10th Art (Digital Art), Blockchains, Spirituality (Humor) et cetera.
   </p>
 <br>
