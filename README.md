@@ -12,7 +12,7 @@
   <br>
   <h3>Oh Hi Mark</h3>
   <p>
-    I am a Computer Engineer (fast learner) passionate in everything related to Computer Science and I'm always ready to practice new subjects.<br>
+    I am a Computer Engineer (fast learner) passionate in everything related to Computer Science and I'm always ready to learn new subjects.<br>
     I am curious about Cybersecurity (Reverse Engineering), Urban Exploration, 
     10th Art (Digital Art), Blockchains, Spirituality (Humor) et cetera.
   </p>
