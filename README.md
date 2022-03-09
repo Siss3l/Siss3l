@@ -2,16 +2,17 @@
   <img width="60" height="60" src="https://avatars.githubusercontent.com/u/32619816?s=400&u=f2365901fa162cb6b07fab6640743c86b9a77ba2&v=4" />
   <br>
   <div style="margin-bottom: 1rem; margin-top: 1rem;">
-    <a href="mailto:sissel@" target="_blank">
-      <img src="https://simpleicons.org/icons/protonmail.svg" width="24" height="24" style="background: #fff; border-radius: 50px; padding: 0.5rem; margin-right: 1rem;">
+    <a href="mailto:sissel@" target="_blank" rel="nofollow">
+      <img src="https://simpleicons.org/icons/protonmail.svg" width="30px" style="background: #fff; border-radius: 50px; padding: 0.5rem; margin-right: 1rem;">
     </a>
-    <a href="https://sissel.io" target="_blank">
-      <img src="https://simpleicons.org/icons/materialdesign.svg" width="24" height="24" style="background: #fff; border-radius: 50px; padding: 0.5rem;">
+    <a href="https://open.spotify.com/sissel" target="_blank" rel="nofollow">
+      <img alt="guilyx's Spotify" width="30px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" style="max-width: 100%;">
+    </a>
     </a>
   </div>
   <br>
-  <h3>Oh Hi Mark</h3>
-  <p> I am a Computer Engineer (fast learner) passionate in everything related to Computer Science and I am always ready to learn new subjects. <br> I am curious about Cybersecurity (Reverse Engineering), Urban Exploration, 10th Art (Digital Art), Blockchains et cetera. </p>
+  <h3>0x34753732556e7454626f52595246327738707a55414d4450337939576f437146507258656e51767a4752764a65555432756d5261776a5247645369357967594b456176393154615076507844507a61343458586e5a63355a6e35574a705545727766417a766967634662714856594d61325677795a434c567a536333665441656b66697363716d77596f4539624a79343553716a6568444867334e56383946396d694246533458445476643474374e3553586a486e755441523268504765345841426742714a3973444a646a33353236624b32446e4e4b76584e537657735376504d3251427571466f5841634e4c677639567337626b774e58394a454673484b6b70484662367a634d7452715074743264666d50753762685345516770593747796d714e583637384b4e686862366d476a476e336177734a5a645a6d727a527376696445</h3>
+  <p> I am a Computer Engineer passionate in everything related to Computer Science and I am always ready to learn new subjects. <br> I am curious about Cybersecurity (Reverse Engineering), Urban Exploration, 10th Art (Digital Art), Blockchains et cetera. </p>
   <br>
   <hr>
   <br>
