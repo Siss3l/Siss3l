@@ -11,7 +11,7 @@
     </a>
   </div>
   <br>
-  <h3>0x34753732556e7454626f52595246327738707a55414d4450337939576f437146507258656e51767a4752764a65555432756d5261776a5247645369357967594b456176393154615076507844507a61343458586e5a63355a6e35574a705545727766417a766967634662714856594d61325677795a434c567a536333665441656b66697363716d77596f4539624a79343553716a6568444867334e56383946396d694246533458445476643474374e3553586a486e755441523268504765345841426742714a3973444a646a33353236624b32446e4e4b76584e537657735376504d3251427571466f5841634e4c677639567337626b774e58394a454673484b6b70484662367a634d7452715074743264666d50753762685345516770593747796d714e583637384b4e686862366d476a476e336177734a5a645a6d727a527376696445</h3>
+  <h3>Hello</h3>
   <p> I am a Computer Engineer passionate in everything related to Computer Science and I am always ready to learn new subjects. <br> I am curious about Cybersecurity (Reverse Engineering), Urban Exploration, 10th Art (Digital Art), Blockchains et cetera. </p>
   <br>
   <hr>
@@ -21,6 +21,7 @@
   <p>
     <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=flat&logo=kotlin&logoColor=white" />
     <img alt="Python" src="https://camo.githubusercontent.com/a3ccfae79c559d3ff0c7ece89882c93bf278d01f0d2a1d908e19497630dca49d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270" width="100" style="max-width: 100%;" />
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white" />
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white" />
     <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=flat&logo=php&logoColor=white" />
     <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=flat&logo=sqlite&logoColor=white" />
