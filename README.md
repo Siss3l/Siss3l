@@ -16,7 +16,7 @@
   <br>
   <hr>
   <br>
-  <h3>Frameworks I've work with:</h3>
+  <h3>Frameworks I have work with:</h3>
   <br>
   <p>
     <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=flat&logo=kotlin&logoColor=white" />
