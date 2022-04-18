@@ -12,7 +12,7 @@
   </div>
   <br>
   <h3>Hello</h3>
-  <p> I am a Computer Engineer passionate in everything related to Computer Science and I am always ready to learn new subjects. <br> I am curious about Cybersecurity (Reverse Engineering), Urban Exploration, 10th Art (Digital Art), Blockchains et cetera. </p>
+  <p> I am a Computer Engineer passionate in everything related to Computer Science and I am always ready to learn new subjects. <br> I am curious about Cybersecurity (like Reverse Engineering or Steganography), Urban Exploration, 10th Art (Digital Art), Blockchains et cetera. </p>
   <br>
   <hr>
   <br>
