@@ -20,7 +20,6 @@
   <br>
   <p>
     <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=flat&logo=kotlin&logoColor=white" />
-    <img alt="Python" src="https://camo.githubusercontent.com/a3ccfae79c559d3ff0c7ece89882c93bf278d01f0d2a1d908e19497630dca49d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270" width="100" style="max-width: 100%;" />
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white" />
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white" />
     <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=flat&logo=php&logoColor=white" />
