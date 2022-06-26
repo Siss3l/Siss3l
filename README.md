@@ -1,12 +1,12 @@
 <div align="center">
-  <img width="60" height="60" src="https://avatars.githubusercontent.com/u/32619816?s=400&u=f2365901fa162cb6b07fab6640743c86b9a77ba2&v=4" />
+  <img width="60" height="60" src="https://avatars.githubusercontent.com/u/32619816?s=400" />
   <br>
   <div style="margin-bottom: 1rem; margin-top: 1rem;">
     <a href="mailto:sissel@[].{}" target="_blank" rel="nofollow">
       <img src="https://simpleicons.org/icons/protonmail.svg" width="30px" style="background: #fff; border-radius: 50px; padding: 0.5rem; margin-right: 1rem;">
     </a>
     <a href="https://open.spotify.com/artist/2GuyBEQIm7jzDzdSNTjPQe" target="_blank" rel="nofollow">
-      <img alt="Spotify" width="30px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" style="max-width: 100%;">
+      <img alt="Spotify" width="30px" src="https://i.imgur.com/nV9TEnH.png" style="max-width: 100%;">
     </a>
   </div>
   <br>
@@ -41,8 +41,6 @@
   </p>
   <br>
   <p align="center" dir="auto">
-    <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg">
-      <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" style="max-width: 100%;">
-    </a>
+    <img src="https://svgshare.com/i/iaj.svg" alt="Waves" style="max-width: 100%;">
   </p>
 </div>
