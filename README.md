@@ -2,7 +2,7 @@
   <img width="60" height="60" src="https://avatars.githubusercontent.com/u/32619816?s=400&u=f2365901fa162cb6b07fab6640743c86b9a77ba2&v=4" />
   <br>
   <div style="margin-bottom: 1rem; margin-top: 1rem;">
-    <a href="mailto:sissel@" target="_blank" rel="nofollow">
+    <a href="mailto:sissel@[].{}" target="_blank" rel="nofollow">
       <img src="https://simpleicons.org/icons/protonmail.svg" width="30px" style="background: #fff; border-radius: 50px; padding: 0.5rem; margin-right: 1rem;">
     </a>
     <a href="https://open.spotify.com/artist/2GuyBEQIm7jzDzdSNTjPQe" target="_blank" rel="nofollow">
@@ -18,26 +18,26 @@
   <h3>Frameworks I have work with:</h3>
   <br>
   <p>
-    <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=flat&logo=kotlin&logoColor=white" />
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white" />
-    <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" />
-    <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=flat&logo=php&logoColor=white" />
-    <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=flat&logo=sqlite&logoColor=white" />
-    <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
-    <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=flat&logo=docker&logoColor=white" />
-    <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
-    <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=flat&logo=jest&logoColor=white" />
-    <img alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi&logoColor=white" />
+    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white" />
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?&style=flat&logo=python&logoColor=ffdd54" />
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+    <img alt="PhpStorm" src="https://img.shields.io/badge/PhpStorm-143?style=flat&logo=phpstorm&color=darkorchid&logoColor=white&labelColor=darkorchid" />
+    <img alt="Freelancer" src="https://img.shields.io/badge/Freelancer-29B2FE?style=flat&logo=Freelancer&logoColor=white" />
+    <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-0db7ed?&style=flat&logo=docker&logoColor=white" />
+    <img alt="React" src="https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB" />
+    <img alt="RedHat" src="https://img.shields.io/badge/Red_Hat-EE0000?style=flat&logo=redhat&logoColor=white" />
+    <img alt="RaspberryPi" src="https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi&logoColor=white" />
     <br>
-    <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
-    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCA000?style=flat&logo=linux&logoColor=white" />
     <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
-    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-    <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
-    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    <img alt="SCSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-    <img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=microsoft-word&logoColor=white" />
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+    <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat&logo=typescript&logoColor=white" />
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-000.svg?style=flat&logo=flask&logoColor=white" />
+    <img alt="StackExchange" src="https://img.shields.io/badge/StackExchange-000000.svg?style=flat&logo=StackExchange&logoColor=white" />
+    <img alt="MicrosoftWord" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=microsoft-word&logoColor=white" />
   </p>
   <br>
   <p align="center" dir="auto">
