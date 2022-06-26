@@ -5,14 +5,13 @@
     <a href="mailto:sissel@" target="_blank" rel="nofollow">
       <img src="https://simpleicons.org/icons/protonmail.svg" width="30px" style="background: #fff; border-radius: 50px; padding: 0.5rem; margin-right: 1rem;">
     </a>
-    <a href="https://open.spotify.com/sissel" target="_blank" rel="nofollow">
-      <img alt="guilyx's Spotify" width="30px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" style="max-width: 100%;">
-    </a>
+    <a href="https://open.spotify.com/artist/2GuyBEQIm7jzDzdSNTjPQe" target="_blank" rel="nofollow">
+      <img alt="Spotify" width="30px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" style="max-width: 100%;">
     </a>
   </div>
   <br>
   <h3>Hello</h3>
-  <p> I am a <b>Computer Engineer</b> passionate in everything related to Computer Science and I am always ready to learn new subjects. <br> I am curious about Cybersecurity (like Reverse Engineering or Steganography), Urban Exploration, 10th (Generative) Art, Blockchains et cetera. </p>
+  <p> I am a <b>Computer Engineer</b> passionate in everything related to <strong>Computer Science</strong> and I am always ready to learn <i>new subjects</i>. <br> I am curious about <ruby><b>Cybersecurity</b><rp>(</rp><rt>and Bug Bounty program</rt><rp>)</rp></ruby>, <b>Urban Exploration</b>, <b>10th (Generative) Art</b>, <b>Blockchains</b>, <b>Machine Learning</b> et cetera. </p>
   <br>
   <hr>
   <br>
@@ -21,7 +20,7 @@
   <p>
     <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=flat&logo=kotlin&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white" />
-    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white" />
+    <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" />
     <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=flat&logo=php&logoColor=white" />
     <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=flat&logo=sqlite&logoColor=white" />
     <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
@@ -37,7 +36,7 @@
     <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
     <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    <img alt="SCSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
     <img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=microsoft-word&logoColor=white" />
   </p>
   <br>
