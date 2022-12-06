@@ -41,6 +41,6 @@
   </p>
   <br>
   <p align="center" dir="auto">
-    <img src="https://svgshare.com/i/iaj.svg" alt="Waves" style="max-width:100%;" />
+    <img src="https://raw.githubusercontent.com/Siss3l/Siss3l/main/waves.svg" alt="Waves" style="max-width:100%;" />
   </p>
 </div>
