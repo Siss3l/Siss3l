@@ -11,7 +11,7 @@
   </div>
   <br>
   <h3>Hello</h3>
-  <p> I am a <b>Computer Engineer</b> passionate in everything related to <strong>Computer Science</strong> and I am always ready to learn <i>new subjects</i>. <br> I am curious about <ruby><b>Cybersecurity</b><rp>(</rp><rt>Bug Bounty program</rt><rp>)</rp></ruby>, <b>Urban Exploration</b>, <b>10th <i>Generative</i> Art</b>, <b>Blockchains</b>, <b>Machine Learning</b> <i>et cetera</i>.</p>
+  <p> I am a <b>Computer Engineer</b> passionate in everything related to <strong>Computer Science</strong> and I am always ready to learn <i>new subjects</i>. <br> I am curious about <ruby><b>Cybersecurity</b><rp>(</rp><rt>Bug Bounty program</rt><rp>)</rp></ruby>, <b>Urban Exploration</b>, <b>10th <i>Generative</i> Art</b>, <b>Blockchains</b>, <b>Machine Learning</b> <i>and so on</i>.</p>
   <br>
   <hr>
   <br>
